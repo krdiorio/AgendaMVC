@@ -1,3 +1,11 @@
+D:\Repo\klauss-Estudos\Pottencial .NET Developer\AgendaMVC\obj\Debug\net6.0\AgendaMVC.csproj.AssemblyReference.cache
+D:\Repo\klauss-Estudos\Pottencial .NET Developer\AgendaMVC\obj\Debug\net6.0\AgendaMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\klauss-Estudos\Pottencial .NET Developer\AgendaMVC\obj\Debug\net6.0\AgendaMVC.AssemblyInfoInputs.cache
+D:\Repo\klauss-Estudos\Pottencial .NET Developer\AgendaMVC\obj\Debug\net6.0\AgendaMVC.AssemblyInfo.cs
+D:\Repo\klauss-Estudos\Pottencial .NET Developer\AgendaMVC\obj\Debug\net6.0\AgendaMVC.csproj.CoreCompileInputs.cache
+D:\Repo\klauss-Estudos\Pottencial .NET Developer\AgendaMVC\obj\Debug\net6.0\AgendaMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Repo\klauss-Estudos\Pottencial .NET Developer\AgendaMVC\obj\Debug\net6.0\AgendaMVC.RazorAssemblyInfo.cache
+D:\Repo\klauss-Estudos\Pottencial .NET Developer\AgendaMVC\obj\Debug\net6.0\AgendaMVC.RazorAssemblyInfo.cs
 D:\Repo\klauss-Estudos\Pottencial .NET Developer\AgendaMVC\bin\Debug\net6.0\appsettings.Development.json
 D:\Repo\klauss-Estudos\Pottencial .NET Developer\AgendaMVC\bin\Debug\net6.0\appsettings.json
 D:\Repo\klauss-Estudos\Pottencial .NET Developer\AgendaMVC\bin\Debug\net6.0\AgendaMVC.staticwebassets.runtime.json
@@ -41,14 +49,6 @@ D:\Repo\klauss-Estudos\Pottencial .NET Developer\AgendaMVC\bin\Debug\net6.0\runt
 D:\Repo\klauss-Estudos\Pottencial .NET Developer\AgendaMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\Repo\klauss-Estudos\Pottencial .NET Developer\AgendaMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\Repo\klauss-Estudos\Pottencial .NET Developer\AgendaMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-D:\Repo\klauss-Estudos\Pottencial .NET Developer\AgendaMVC\obj\Debug\net6.0\AgendaMVC.csproj.AssemblyReference.cache
-D:\Repo\klauss-Estudos\Pottencial .NET Developer\AgendaMVC\obj\Debug\net6.0\AgendaMVC.GeneratedMSBuildEditorConfig.editorconfig
-D:\Repo\klauss-Estudos\Pottencial .NET Developer\AgendaMVC\obj\Debug\net6.0\AgendaMVC.AssemblyInfoInputs.cache
-D:\Repo\klauss-Estudos\Pottencial .NET Developer\AgendaMVC\obj\Debug\net6.0\AgendaMVC.AssemblyInfo.cs
-D:\Repo\klauss-Estudos\Pottencial .NET Developer\AgendaMVC\obj\Debug\net6.0\AgendaMVC.csproj.CoreCompileInputs.cache
-D:\Repo\klauss-Estudos\Pottencial .NET Developer\AgendaMVC\obj\Debug\net6.0\AgendaMVC.MvcApplicationPartsAssemblyInfo.cache
-D:\Repo\klauss-Estudos\Pottencial .NET Developer\AgendaMVC\obj\Debug\net6.0\AgendaMVC.RazorAssemblyInfo.cache
-D:\Repo\klauss-Estudos\Pottencial .NET Developer\AgendaMVC\obj\Debug\net6.0\AgendaMVC.RazorAssemblyInfo.cs
 D:\Repo\klauss-Estudos\Pottencial .NET Developer\AgendaMVC\obj\Debug\net6.0\staticwebassets.build.json
 D:\Repo\klauss-Estudos\Pottencial .NET Developer\AgendaMVC\obj\Debug\net6.0\staticwebassets.development.json
 D:\Repo\klauss-Estudos\Pottencial .NET Developer\AgendaMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
